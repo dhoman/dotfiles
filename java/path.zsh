@@ -1,5 +1,6 @@
-# will display all the valid versions for setting JAVA_HOME
-#   /usr/libexec/java_home -V
+# brew tap AdoptOpenJDK/openjdk
+# brew cask install adoptopenjdk
+# brew cask install adoptopenjdk8
 # i installed these versions of java using homebrew
 # and i had to have 1.8 as the active java
 #   https://github.com/AdoptOpenJDK/homebrew-openjdk
